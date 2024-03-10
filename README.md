@@ -9,7 +9,7 @@ We demonstrate a novel whole slide image (WSI) analysis method based on graph re
 ## 2. For Model Code
 This repository is based on the Pytorch version of the WiKG code. 
 
-The model code and train demo code have been released, and we will add more details soon.
+The easy-to-follow model code and train demo code have been released, and we will add more details soon.
 
 ## 3. For Preprint Paper
 Our articles will be released in *Arxiv* first.
