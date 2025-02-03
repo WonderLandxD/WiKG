@@ -40,6 +40,9 @@ python train.py
 ```
 The above command will train and test WiKG.
 
+### 2.3 TCGA Dataset used in paper
+The detailed data ID and label division in tcga used in the article have been updated to the data folder.
+
 ## 3. About Paper
 
 Arxiv version: https://arxiv.org/abs/2403.07719
